@@ -26,8 +26,6 @@
 />][scikit-learn]
 [<img align="left" alt="Seaborn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292108-eaf08680-783a-11eb-98f3-ebe9487b11cf.png"
 />][seaborn]
-[<img align="left" alt="c" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104126142-f6135400-536b-11eb-89b1-cc0df54be6b8.png"
-/>][website]
 [<img align="left" alt="c++" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104126246-979aa580-536c-11eb-92dd-f58cc878d414.png"
 />][cplusplus]
 [<img align="left" alt="OpenGL" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109294071-c6e27480-783d-11eb-9a58-07ebc8656266.png"
@@ -39,10 +37,6 @@
 [<img align="left" alt="JavaScript" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
 [<img align="left" alt="JQuery" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292877-158f0f00-783c-11eb-80e1-be14a3cafd9a.png"
 />][jquery]
-[<img align="left" alt="HTML5" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-/>][webdevplaylist]
-[<img align="left" alt="CSS3" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-/>][cssplaylist]
 [<img align="left" alt="React" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
 />][reactjs]
 [<img align="left" alt="Bootstrap" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127905-bcdfe180-5375-11eb-89e1-efecea8f1ec9.png"
