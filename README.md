@@ -83,3 +83,13 @@
 [javascript]: https://www.javascript.com/
 [openjfx]: https://openjfx.io/
 [cplusplus]: https://www.cplusplus.com/
+[opengl]: https://www.opengl.org//
+[openjfx]: https://openjfx.io/
+[seaborn]: https://seaborn.pydata.org/
+[scikit-learn]: https://scikit-learn.org/stable/
+[matplotlib]: https://matplotlib.org/
+[pandas]: https://pandas.pydata.org/
+[numpy]: https://numpy.org/
+[opencv]: https://opencv.org/
+[python]: https://www.python.org/
+[visualstudio]: https://code.visualstudio.com/
