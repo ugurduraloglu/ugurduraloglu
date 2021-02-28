@@ -13,7 +13,7 @@
 
 
   <a href="https://www.linkedin.com/in/u%C4%9Fur-durmu%C5%9F-711592156/" target="_blank">
-    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" style="width: 200px; height: 44px;" width="200" height="44" />
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=277987&theme=light" style="width: 44px; height: 44px;" width="44" height="44" />
   </a>
 
 
