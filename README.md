@@ -7,7 +7,7 @@
 - 📫 How to reach me: ugurdurmus1667@gmail.com
 
 ### Languages of Tools
-[serser](https://www.youtube.com/channel/UC_IfVKT5aYLNgAdt8JqJ_CQ)
+[YouTube-logo](https://www.youtube.com/channel/UC_IfVKT5aYLNgAdt8JqJ_CQ)
 
 
 
