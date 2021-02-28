@@ -64,3 +64,19 @@
 
 
 
+[arduino]: https://www.arduino.cc/
+[raspberrypi]: https://www.raspberrypi.org/
+[mongodb]: https://www.mongodb.com/3
+[mysql]: https://www.mysql.com/
+[sqlite]: https://www.sqlite.org/index.html
+[commandline]: https://www.windows-commandline.com/
+[github]: https://github.com/
+[nodejs]: https://nodejs.org/en/
+[git]: https://git-scm.com/
+[json]: https://www.json.org/json-en.html
+[getbootstrap]: https://getbootstrap.com/
+[reactjs]: https://tr.reactjs.org/
+[jquery]: https://jquery.com/
+[javascript]: https://www.javascript.com/
+[openjfx]: https://openjfx.io/
+[cplusplus]: https://www.cplusplus.com/
