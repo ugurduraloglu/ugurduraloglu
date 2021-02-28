@@ -6,14 +6,14 @@
 - ⚡ Fun fact: Just code it 😄
 - 📫 How to reach me: ugurdurmus1667@gmail.com
 
-### Languages of Tools
-
 ### Connect with me
 
 [<img align="left" alt="halildurmus | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="halildurmus | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="halildurmus | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="halildurmus | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+### Languages of Tools
 
 [<img align="left" alt="Visual Studio Code" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png"
