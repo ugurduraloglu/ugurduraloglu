@@ -15,6 +15,9 @@
 <br/>
 ### Languages of Tools
 
+[<img align="left" alt="JavaScript" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+[<img align="left" alt="Node.js" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
+/>][nodejs]
 [<img align="left" alt="Visual Studio Code" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png"
 />][python]
@@ -38,7 +41,7 @@
 />][openjfx]
 <br />
 <br />
-[<img align="left" alt="JavaScript" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javascript]
+
 [<img align="left" alt="JQuery" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292877-158f0f00-783c-11eb-80e1-be14a3cafd9a.png"
 />][jquery]
 [<img align="left" alt="React" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
@@ -47,8 +50,6 @@
 />][getbootstrap]
 [<img align="left" alt="JSON" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292466-7702ae00-783b-11eb-8cbc-21acfa1bc611.png"
 />][json]
-[<img align="left" alt="Node.js" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
-/>][nodejs]
 [<img align="left" alt="Git" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
 />][git]
 [<img align="left" alt="GitHub" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109293415-cd242100-783c-11eb-975b-d0a9f1eefefc.png"
