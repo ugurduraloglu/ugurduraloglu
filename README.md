@@ -33,15 +33,14 @@
 />][scikit-learn]
 [<img align="left" alt="Seaborn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292108-eaf08680-783a-11eb-98f3-ebe9487b11cf.png"
 />][seaborn]
+<br />
+<br />
 [<img align="left" alt="c++" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104126246-979aa580-536c-11eb-92dd-f58cc878d414.png"
 />][cplusplus]
 [<img align="left" alt="OpenGL" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109294071-c6e27480-783d-11eb-9a58-07ebc8656266.png"
 />][opengl]
 [<img align="left" alt="JavaFX" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109294209-f42f2280-783d-11eb-863a-f20107420bec.png"
 />][openjfx]
-<br />
-<br />
-
 [<img align="left" alt="JQuery" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292877-158f0f00-783c-11eb-80e1-be14a3cafd9a.png"
 />][jquery]
 [<img align="left" alt="React" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
