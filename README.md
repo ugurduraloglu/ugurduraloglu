@@ -59,6 +59,12 @@
 />][github]
 [<img align="left" alt="Terminal" height="35px" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"
 />][commandline]
+[<img align="left" alt="SQL" width="35px" src="https://user-images.githubusercontent.com/66306220/109294963-fe055580-783e-11eb-88eb-f1e0b0d86eba.png" 
+/>][sqlite]
+[<img align="left" alt="MySQL" width="35px" src="https://user-images.githubusercontent.com/66306220/109295718-41ac8f00-7840-11eb-87f3-8fc3f9a78771.png" 
+/>][mysql]
+[<img align="left" alt="MongoDB" width="35px" src="https://user-images.githubusercontent.com/66306220/109296478-66553680-7841-11eb-9eab-a6063f634266.png" 
+/>][mongodb]
 <br />
 <br />
 
