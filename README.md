@@ -66,6 +66,8 @@
 />][mysql]
 [<img align="left" alt="MongoDB" width="35px" src="https://user-images.githubusercontent.com/66306220/109296478-66553680-7841-11eb-9eab-a6063f634266.png" title="MongoDB"
 />][mongodb]
+[<img align="left" alt="MongoDB" width="35px" src="" title="MongoDB"
+/>][mongodb]
 <br />
 <br />
 
