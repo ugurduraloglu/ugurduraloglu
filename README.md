@@ -66,8 +66,8 @@
 />][mysql]
 [<img align="left" alt="MongoDB" width="35px" src="https://user-images.githubusercontent.com/66306220/109296478-66553680-7841-11eb-9eab-a6063f634266.png" title="MongoDB"
 />][mongodb]
-[<img align="left" alt="MongoDB" width="35px" src="" title="MongoDB"
-/>][mongodb]
+[<img align="left" alt="Bash" width="35px" src="https://user-images.githubusercontent.com/44491190/110289997-3e14c700-7ffb-11eb-9f35-1e295e678fdc.png" title="BASH"
+/>][bash]
 <br />
 <br />
 
@@ -110,3 +110,4 @@
 [mysql]: https://www.mysql.com/
 [sqlite]: https://www.sqlite.org/index.html
 [java]: https://www.java.com/tr/
+[bash]: https://www.gnu.org/software/bash/
