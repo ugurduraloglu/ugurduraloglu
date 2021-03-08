@@ -34,9 +34,9 @@
 />][scikit-learn]
 [<img align="left" alt="Seaborn" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109292108-eaf08680-783a-11eb-98f3-ebe9487b11cf.png" title="Seaborn"
 />][seaborn]
-[<img align="left" alt="RaspberryPi" width="35px" src="https://user-images.githubusercontent.com/44526088/104127459-34604180-5373-11eb-8f77-bd0d01294f33.png" title="Arduino"
+[<img align="left" alt="RaspberryPi" width="35px" src="https://user-images.githubusercontent.com/44526088/104127459-34604180-5373-11eb-8f77-bd0d01294f33.png" title="RaspberryPi"
 />][raspberrypi]
-[<img align="left" alt="Ardunio" width="35px" src="https://user-images.githubusercontent.com/44526088/104127504-7a1d0a00-5373-11eb-99f5-32b087e6b7a1.png" 
+[<img align="left" alt="Ardunio" width="35px" src="https://user-images.githubusercontent.com/44526088/104127504-7a1d0a00-5373-11eb-99f5-32b087e6b7a1.png" title="Arduino"
 />][arduino]
 <br />
 <br />
