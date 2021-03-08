@@ -22,6 +22,8 @@
 [<img align="left" alt="Visual Studio Code" height="35px" width="35px" title="Visual Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" title="Python"
 />][python]
+[<img align="left" alt="java" height="35px" width="35px" src="https://user-images.githubusercontent.com/44491190/110289281-43bddd00-7ffa-11eb-8f44-38449b4034bf.png" title="Java"
+/>][java]
 [<img align="left" alt="OpenCV" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109276744-73fdc280-7827-11eb-9865-8f6989bb34d7.png" title="OpenCV"
 />][opencv]
 [<img align="left" alt="Numpy" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109288320-be863b80-7835-11eb-8423-24d22fa91fea.png" title="Numpy"
@@ -105,3 +107,4 @@
 [mongodb]: https://www.mongodb.com/3
 [mysql]: https://www.mysql.com/
 [sqlite]: https://www.sqlite.org/index.html
+[java]: https://www.java.com/tr/
