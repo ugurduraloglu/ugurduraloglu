@@ -19,7 +19,10 @@
 />][javascript]
 [<img align="left" alt="Node.js" height="35px" width="35px" title="Nodejs" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"
 />][nodejs]
-[<img align="left" alt="Visual Studio Code" height="35px" width="35px" title="Visual Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][visualstudio]
+[<img align="left" alt="Visual Studio Code" height="35px" width="35px" title="Visual Studio" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" 
+/>][visualstudio]
+[<img align="left" alt="csharp" height="35px" width="35px" title="csharp" src="https://user-images.githubusercontent.com/44491190/224337442-6f486e09-69bb-4216-8611-7437c8442ec6.png"
+/>][csharp]
 [<img align="left" alt="Python" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104127132-71c3cf80-5371-11eb-958a-1ab0b4be69f3.png" title="Python"
 />][python]
 [<img align="left" alt="java" height="35px" width="35px" src="https://user-images.githubusercontent.com/44491190/110289281-43bddd00-7ffa-11eb-8f44-38449b4034bf.png" title="Java"
@@ -73,7 +76,6 @@
 
 
 
-
 [twitter]: https://twitter.com/ugurduraloglu
 [youtube]: https://www.youtube.com/channel/UC_IfVKT5aYLNgAdt8JqJ_CQ
 [instagram]: https://www.instagram.com/ugurduraloglu61/
@@ -111,3 +113,4 @@
 [sqlite]: https://www.sqlite.org/index.html
 [java]: https://www.java.com/tr/
 [bash]: https://www.gnu.org/software/bash/
+[csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
