@@ -45,6 +45,8 @@
 />][arduino]
 <br />
 <br />
+[<img align="left" alt="MSSQL" height="35px" width="35px" src="https://user-images.githubusercontent.com/44491190/224341823-5dda7f83-2a29-4d36-80f1-2e82c8f3f181.png" title="MSSQL"
+/>][mssql]
 [<img align="left" alt="c++" height="35px" width="35px" src="https://user-images.githubusercontent.com/44526088/104126246-979aa580-536c-11eb-92dd-f58cc878d414.png" title="C++"
 />][cplusplus]
 [<img align="left" alt="OpenGL" height="35px" width="35px" src="https://user-images.githubusercontent.com/66306220/109294071-c6e27480-783d-11eb-9a58-07ebc8656266.png" title="OpenGL"
@@ -114,3 +116,4 @@
 [java]: https://www.java.com/tr/
 [bash]: https://www.gnu.org/software/bash/
 [csharp]: https://learn.microsoft.com/en-us/dotnet/csharp/
+[mssql]: https://www.microsoft.com/tr-tr/sql-server/sql-server-2019
