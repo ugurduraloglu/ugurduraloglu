@@ -77,7 +77,7 @@
 [twitter]: https://twitter.com/ugurduraloglu
 [youtube]: https://www.youtube.com/channel/UC_IfVKT5aYLNgAdt8JqJ_CQ
 [instagram]: https://www.instagram.com/ugurduraloglu61/
-[linkedin]: https://www.linkedin.com/in/u%C4%9Fur-durmu%C5%9F-711592156/
+[linkedin]: https://www.linkedin.com/in/duralog/
 [arduino]: https://www.arduino.cc/
 [raspberrypi]: https://www.raspberrypi.org/
 [mongodb]: https://www.mongodb.com/3
